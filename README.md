@@ -1,7 +1,7 @@
 A arquitetura abaixo é baseada em uma estrutura SOA (Service-Oriented Architecture), com ênfase na modularidade, reusabilidade e integração com serviços externos. Essa abordagem permite que cada parte do sistema opere de forma autônoma, mas também colaborativa, facilitando manutenção, escalabilidade e evolução contínua.
 
 <div align = center>
-<img src="PROND-PROG.svg" alt="Arquitetura SOA">
+<img src="POND-PROG.svg" alt="Arquitetura SOA">
 </div>
 
 ### Fluxo/Passo a Passo do Processo de Reserva no Sistema
